@@ -11,5 +11,16 @@ $icon-home: x y offset_x offset_y width height total_width total_height image_pa
 At the bottom of this section, we provide information about the spritesheet itself
 $spritesheet: width height image $spritesheet-sprites;
 */
+$icon-1: (0px, 0px, 0px, 0px, 80px, 80px, 332px, 248px, '../images/icon-sprite.png', '1', 'icon');
+$icon-10: (84px, 0px, -84px, 0px, 80px, 80px, 332px, 248px, '../images/icon-sprite.png', '10', 'icon');
+$icon-2: (0px, 84px, 0px, -84px, 80px, 80px, 332px, 248px, '../images/icon-sprite.png', '2', 'icon');
+$icon-3: (84px, 84px, -84px, -84px, 80px, 80px, 332px, 248px, '../images/icon-sprite.png', '3', 'icon');
+$icon-4: (168px, 0px, -168px, 0px, 80px, 80px, 332px, 248px, '../images/icon-sprite.png', '4', 'icon');
+$icon-5: (168px, 84px, -168px, -84px, 80px, 80px, 332px, 248px, '../images/icon-sprite.png', '5', 'icon');
+$icon-6: (0px, 168px, 0px, -168px, 80px, 80px, 332px, 248px, '../images/icon-sprite.png', '6', 'icon');
+$icon-7: (84px, 168px, -84px, -168px, 80px, 80px, 332px, 248px, '../images/icon-sprite.png', '7', 'icon');
+$icon-8: (168px, 168px, -168px, -168px, 80px, 80px, 332px, 248px, '../images/icon-sprite.png', '8', 'icon');
+$icon-9: (252px, 0px, -252px, 0px, 80px, 80px, 332px, 248px, '../images/icon-sprite.png', '9', 'icon');
+$icon-sprites: ($icon-1, $icon-10, $icon-2, $icon-3, $icon-4, $icon-5, $icon-6, $icon-7, $icon-8, $icon-9, );
 
 
