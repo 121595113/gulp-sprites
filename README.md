@@ -1,4 +1,4 @@
-# gulp合图插件详解
+# gulp合图插件详解（隶属于[gulp-T](https://github.com/121595113/gulp-T)）
 
 ## 使用方法
 
