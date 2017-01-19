@@ -55,7 +55,7 @@ The `sprites` mixin generates identical output to the CSS template
     @each $sprite in $sprites {
         $sprite-name: nth($sprite, 10);
         .#{$pre-name + $separator + $sprite-name} {
-            @include sprite($sprite, $repeat, $expand);
+            @include sprite($sprite, $repeat, $expand,$retina);
         }
     }
 }
